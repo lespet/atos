@@ -4,6 +4,7 @@ Build a solution in the programming language of (Python ) that predicts if the p
 We dont have reliable, long data which can be used for prediction of stroke. Data is unbalanced. No information of past history. I used a simple assumptions that first variables contain information which can be used to predict last variable. This is very simplistic- we should have time series data ,monitoring state of patient, knowledge of the predicive variables of state of patient before stroke and more relavent variables. We can see confusion matrix to verify the results. I used 2 methods, svm and decision tree.
 
 Atos – Stroke prediction
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 I  had access to only very limited data sets.  Question arises if data science is the right approach to solve that problem.
 As  in any task we have 3 main components:
 1, Assumptions: These are taken from our experience and intuition to be the basis of our thinking about a problem.
